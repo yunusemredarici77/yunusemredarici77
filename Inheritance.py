@@ -92,6 +92,7 @@ print(isinstance(personel2,manager)) #false
 #simdi altclass mı deil mi onu görcez
 print(issubclass(manager,calisan)) #true
 print(issubclass(developer,calisan))
+#degisiklik
 
  
                   
